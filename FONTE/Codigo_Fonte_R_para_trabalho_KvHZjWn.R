@@ -37,10 +37,6 @@ Mode <- function(x) {
 
 #Para o primeiro momento de an?lises, o interessante ? classificar cada um dos tipos de vari?veis que o banco tem
 
-##Contando ocorrências de valores nas variáveis
-i = 0
-
-
 
 ## FREQUENCIA DE OCORRENCIA DE CADA CIDADE, ONDE totalNcidade[i] == total de participantes que marcaram o i valor no questionário
 freqNcidade = table(amostra[,2])
