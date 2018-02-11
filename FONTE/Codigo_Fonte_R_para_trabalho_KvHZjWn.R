@@ -21,7 +21,14 @@ write.table(amostra, file="D:\\Probabilidade\\fwdprobscripts\\amostraAaron.txt",
 #--CARREGANDO AMOSTRA EM DISCO:
 amostra = read.table("~/Documentos/Code/R/PROJETO ESTATISTICA-20180206T113737Z-001/PROJETO ESTATISTICA/FONTE/amostraAaron.txt", header = T, sep = "\t", encoding="latin1")
 
+####### FUNÇÕES IMPLEMENTADAS: #########
 
+##MODA:##
+
+Mode <- function(x) {
+  ux <- unique(x)
+  ux[which.max(tabulate(match(x, ux)))]
+}
 
 # Pronto! Agora temos nosso banco de dados! Mãos a obra com as análises!
 
@@ -76,8 +83,6 @@ freqHabitAlug = table(amostra[,16])
 
 #frequencia trabalho
 freqTrabalho = table(amostra[,17])
-
-#
 
 #Depois Construir Estat?sticas Descritivas para cada uma das vari?veis QUALITATIVAS em formato de tabela e gr?ficos
 
