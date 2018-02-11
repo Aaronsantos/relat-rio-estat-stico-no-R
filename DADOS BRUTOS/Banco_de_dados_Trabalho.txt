@@ -1,0 +1,534 @@
+Número	NCidade	Local	Idade	Cidade	Tempo	Bairro	Cor	Religião	Religião_qual	Estudando	Estudo	Casa	Qualeotipodehabitacao	Habit_outro	Habit_alug	Comodos	Trabalho	Recursos	Renda_familiar	Renda_div_pessoa	Renda_da_familia	Classe	Civil
+1	1	3	20	1	1	1	3	1	2	2	3	4	1		1	3	3		250	2	125	Não Soube Informar	Mora Junto
+2	1	3	18	1	1	1	3	2		2	3	4	1		1	4	3		465	3	155	Média	Solteira
+3	1		20	2	2		3	1	2	2	3	3	1		1	3	3		480	1	480	pobre média	casada
+4	1	3	19	1	4	1	3	2		2	3	3	1		1	2	2	465	665	2	333	pobre	solteira
+5	1	3	17	2	4	1	1	1	1	2	5	3	1		1	3	1	465	1100	2	550	pobre	casada
+6	1	2	17	1	2	1	1	1	2	2	3	4	1		1	6	2	50	695	3	232	média	casada
+7	1	2	20	1	1	1	3	2		2	3	3	1		4	4	3		550	1	550	pobre	casada
+8	1		19	1	1	1	3	2		2	5	9	1		1	5	3		500	2	250	média	solteira
+9	1	2	15	1	1		3	2		2	3	7	1		3	4	3		600	2	300	média	Solteira
+10	1	2	19	1	1	1	1	1	1	2	5	3	1		1	3	3		300	1	300	Baixa	casada
+11	1	4	18	2	4	1	1	1	2	2	6	3	1		3	3	3		500	3	167	Pobre	Casada
+12	1	3	18	1	1	1	3	2		2	3	5	1		1	4	3		1000	5	200	Não soube informar	solteira
+13	1	3	16	2	1	1	1	2		2	3	3	1		1	3	3		465	3	155	Não soube responder	Solteira
+14	1	4	21	1	1	1	1	2		1	3	3	1		1	3	2	134	600	3	200	Média	Solteira
+15	1	1	20	1	1	1	3	1	2	2	5	5	1		1	3	3		750	5	150	Normal	Solteira
+16	1	3	18	1	1	1	1	2		2	3	4	1		1	4	3		250	4	63	Não soube informar	Solteira
+17	1	1	23	2	3	1	2	1	2	2	5	3	1		1	3	3		465			Pobre	Casada
+18	1	4	19	1	1	1	2	2		1	5	4	1		1	3	3		900	4	225	pobre	solteira
+19	1	3	21	1	1	1	3	1	1	1	3	6	1		1	3	1	100	800	6	133	Pobre	Casada
+20	1	2	18	1	1	2	1	1	1	1	5	5	1		1	3	3		730	5	146	Meio Média	casada
+21	1	2	18	2	4	2	3	1	1	2	5	3	1		1	3	3		465	3	155	baixa	Mora Junto
+22	1	4	18	2	2	1	3	2		1	3	7	1		3	3	4	150	600	7	86	miserável	solteira
+23	1	2	16	2	3	2	3	2		2	3	10	1		3	4	3		730	10	73	pobre	solteira
+24	1	2	22	1	1	2	2	1	1	2	5	8	1		3	3	1	200	500	8	63	abaixo da linha da pobreza	solteira
+25	1	2	17	1	1	1	3	1	2	2	5	5	1		1	4	3			98		médio	mora junto
+26	1	4	20	2	4	2	1	2		2	3	6	1		2	3	2	100	400	6	67	média	solteira
+27	1	4	22	4	4	2	5	2		1	5	4	1		1		2	112	112	3	37	baixa	solteira
+28	1	2	19	1	1	2	1	2		1	5	5	1		3	3	1	240	700	5	140	Classe média	solteira
+29	1	4	21	1	1	2	3	2		2	3	5	1		6	3	1	465	900	5	180	Pobre	Não sabe o que significa
+30	1	3	21	2	3	2	3	1	1	2	5	2	1		3	3	1	550	800	2	400	baixa	solteira
+31	1	4	17	1	1	2	1	1	1	1	5	5	1		1	4	2	250	1000	5	200	Média/baixa	solteira
+32	1	3	17	1	1	1	3	1	2	2	5	6	1		1	4	3		450	6	75	baixa	solteira
+33	1	4	18	1	1	1	3	2		2	3	7	1		1	1	3					Afirmou não ter classe	solteira
+34	1	3	19	1	1	1	1	2		2	4	3	1		2	3	3		80	3	27	normal	mora junto
+35	1	2	19	2	1	1	3	1	1	2	5	4	1		1	3	3		400	4	100	pobre	solteira
+36	1	2	18	1	2	1	3	2		2	3	3	1		3	3	3		400	3	133	Não soube informar	amigada
+37	1	4	21	1	1	1	3	1	1	2	5	3	1		1	3	2	190	190	3	63	humilde	solteira
+38	1	4	19	1	1	1	1	1	1	2	6	3	1		1	3	1	300	900	3	300	Pobre	Mora Junto
+39	1	4	22	1	1	1	2	2		2	6	9	1		1	4	2	90	400	9	44	Baixa	Solteira
+40	1	4	21	1	1	1	3	1	1	2	3	4	1		1	3	3		70	4	18	Pobre	Mora Junto
+41	1	2	19	1	1	1	1	2		2	3	2	1		1	3	3		250	2	125	Baixa	Solteira
+42	1	3	21	1	1	1	1	1	1	2	3	3	1		1	3	3		400	3	133	Não soube informar	Solteira
+43	1	4	21	3	2	1	3	1	1	2	3	4	1		4	3	2	90	500	4	125	Não soube informar	Casada
+44	1	4	19	1	1	1	1	1	2	2	3	3	1		1	3	2	300	300	3	100	Não soube informar	Solteira
+45	1	2	17	1	1	1	1	1	2	1	3	5	1		1	3	3		400	5	80	Não soube informar	Casada
+46	1	3	19	1	1	1	2	2		2	6	3	1		1	3	3		200	3	67	Baixíssima	Amigada
+47	1	4	20	1	1	1	3	1	1	2	3	3	1		3	3	3		500	4	125	Pobre	amigada
+48	1	3	20	1	1	1	2	2		2	3	5	1		1	3	1	500	700	5	140	Normal	Solteira
+49	1	1	18	1	1	1	3	1	2	1	5	6	1		3	4	1	140	560	6	93	baixa	solteira
+50	1	2	20	2	3	1	3	1	6	1	3	3	1		3	4	1	360	900	3	300	estável	casada
+51	1	3	20	1	1	1	3	1	2	2	5	3	1		2	4	3		500	3	167	baixa	solteira
+52	1	3	21	1	1	1	3	2		2	3	3	1		3	3	2	370	370	3	123	baixa	solteira
+53	1	1	18	1	1	2	1	2		1	5	5	1		1	4	3		930	5	186	Não soube informar	amigada
+54	1	3	18	1	1	1	3	2		2	3	2	1		4	3	3					Nâo sabe	solteira
+55	1	3	20	1	1	1	1	1	1	2	3	10	1		1	4	3		1395	10	140	Pobre	solteira
+56	1	2	18	1	1	1	6	2		2	3	3	1		3	4	2	20	500	3	167	simples	solteira
+57	1	3	19	1	1	1	3	1	1	2	3	3	1		3	3	3		400	3	133	média	solteira
+58	1	2	15	1	1	1	3	1	2	2	3	4	1		4	3	3		530	4	133	Nâo sabe	amigada
+59	1	2	16	1	1	1	3	2		2	5	3	1		1	3	3		300	3	100	baixa	mora junto
+60	1	4	22	1	1	1	3	1	2	2	5	4	1		1	3	2	110	110	4	28	médio	solteira
+61	1	1	21	1	1	1	6	2		1	5	4	1		1	4	2	150	150	2	75	baixa	solteira
+62	1	1	22	1	1	1	3	1	1	2	6	4	1		1	4	2	90	900	4	225	baixa	solteira
+63	1	2	20	2	1	1	99	2		1	7	4	1		1	4	1	150	1000	99	10	baixa	solteira
+64	1	3	19	1	1	1	3	1	2	2	6	6	1		1	4	3		1	99	0	Baixa	solteira
+65	1	2	19	1	1	1	1	2		2	5	3	1		1	4	2	90	1	98	0	pobre	solteira
+66	1	1	20	1	1	1	3	2		2	5	3	1		1	5	3		500	3	167	Nâo sabe	solteira
+67	1	2	17	2	2	1	6	2		2	3	9	1		1	4	3		400	9	44	Nâo sabe	solteira
+68	1	2	19	1	1	1	3	2		2	3	5	1		1	4	3		1500	5	300	média	solteira
+69	1	2	19	1	1	1	2	2		2	3	6	1		3	4	3		300	6	50	nada	solteiro
+70	1	2	19	1	1	1	3	2		2	5	7	1		2	3	3		465	7	66	média	solteira
+71	1	3	19	1	1	1	2	2		1	3	5	1		2	4	2	200	700	6	117	baixa	solteira
+72	1	2	19	1	1	1	2	2		2	3	4	1		3	4	1	400	700	4	175	pobre	solteiro
+73	1	3	19	1	1	1	1	2		2	3	3	1		1	4	3		765	8	96	média	solteiro
+74	1	4	16	2	4	1	3	2		2	3	3	3		3	1	3		300	5	60	baixa	solteiro
+75	1	2	15	1	1	1	3	1	2	1	5	3	1		1	3	3		80	3	27	pobre	solteiro
+76	1	4	21	2	4	1	2	1	2	2	6	7	1		2	4	2	90	2200	7	314	pobre	solteira
+77	1	3	22	1	1	1	2	1	2	2	3	4	1		3	3	2	400	865	4	216	média	solteira
+78	1	2	18	1	1	1	3	1	2	2	5	8	1		1	4	3		1	8	0	nenhuma	solteira
+79	1	2	18	2	1	1	2	2		1	5	7	1		2	4	2	145	610	7	87	Nâo sabe	solteira
+80	1	3	17	2	4	1	3	2		2	3	6	6	barraco	1	3	3		520	4	130	baixa	solteiro
+81	1	3	17	2	4	1	1	2		2	5	6	1		3	3	3		800	6	133	baixa	solteira
+82	1	3	20	1	1	1	2	1	2	2	5	6	1		4	3	3		1	98	0	médio	amigado
+83	1	3	21	2	2	1	1	2		2	3	4	1		1	3	3		350	4	88	pobre	solteira
+84	1	3	21	1	1	1	1	2		2	3	12	1		1	4	3		600	12	50	média	solteira
+85	1	4	19	1	1	1	3	1	1	2	6	7	1		1	3	3		700	98	7	baixa	solteira
+86	1	4	15	1	1	1	3	1	1	2	3	9	1		1	3	3		600	9	67	pobre	solteiro
+87	1	2	20	1	1	1	2	2		2	3	3	1		3	3	4	100	500	3	167	média	amigado
+88	1	3	20	1	1	1	3	1	1	2	4	3	1		3	3	3		100	3	33	baixa	mora junto
+89	1	4	21	1	1	1	3	1	2	2	6	5	2		1	4	1	530	650	5	130	pobre	solteira
+90	1	4	21	1	1	1	3	2		2	5	3	1		3	3	3		450	3	150	pobre	casada
+91	1	4	20	1	1	1	3	2		2	5	7	1		1	4	1	530	1200	7	171	média	solteira
+92	1	2	15	1	1	1	3	2		2	3	5	1		1	3	1	80	600	98	6	média	solteira
+93	1	4	18	1	1	1	1	1	1	2	6	3	1		1	4	3		1000	3	333	casada	5
+94	1	3	19	1	1	1	3	2		2	3	5	1		1	4	3		400	5	80	Não sabe	solteira
+95	1	2	19	1	1	1	2	1	1	1	3	4	1		3	3	3		400	4	100	Não sabe	solteira
+96	1	4	18	1	1	1	3	1	1	2	3	3	3		3	3	3		240	3	80	Não sabe	solteira
+97	1	3	18	2	4	1	3	2		2	3	4	1		1	3	1	400	600	4	150	média	solteira
+98	1	3	20	1	1	1	3	2		2	3	4	1		3	3	3		465	4	116	baixa	solteira
+99	1	3	21	1	1	1	3	2		1	4	3	1		3	3	2	100	200	3	67	média	solteira
+100	1	3	19	1	1	1	1	1	1	2	5	8	1		1	4	2	90	800	8	100	baixa	solteira
+101	3	1	1	1	1	1	3	2		2	3	5	1		1	5	3		2500	5	500	média	solteira
+102	1	4	21	2	3	1	3	1	1	2	5	4	1		3	3	2	350	400	4	100	baixa	solteira
+103	1	4	17	1	1	1	2	1	1	1	5	6	1		2	4	2	100	1000	6	167	baixa	solteira
+104	1	2	21	1	1	1	2	2		1	3	4	1		2	3	1	300	900	4	225	pobre	casada
+105	1	3	17	1	1	1	3	2		1	5	3	1		1	3	3		465	3	155	Não sabe	solteira
+106	1	4	19	1	1	1	3	2		2	5	5	1		1	3	3		300	5	60	média	solteira
+107	1	3	19	2	2	1	2	1	1	2	3	6	3		3	3	3		500	5	100	média	solteira
+108	1	4	21	1	1	1	3	1	2	2	3	2	6	barraco	1	3	2	90	90	2	45	baixa	solteira
+109	1	2	17	1	1	1	98	2		2	3	7	1		1	4	3		465	7	66	Não sabe	solteira
+110	1	2	17	1	1	1	3	2		2	5	6	1		1	3	3		324	6	54	média	solteira
+111	1	2	20	1	1	1	1	1	2	2	4	5	1		1	4	3		465	4	116	Não sabe	solteira
+112	1	2	19	1	1	1	3	2		2	5	2	1		1	3	2	280	1000	2	500	baixa	solteira
+113	1	2	20	4	4	1	1	1	2	1	6	3	1		1	4	2	500	800	3	267	média baixa	solteira
+114	1	3	19	1	1	1	2	2		2	6	5	6	residência	1	4	3		2000	5	400	pobre	solteira
+115	1	2	18	1	1	1	2	2		2	3	4	1		1	3	3		400	4	100	nem rica nem pobre	casada
+116	1	3	18	1	1	1	3	1	2	1	5	4	1		1	4	2	30	300	4	75	baixa	solteira
+117	2	1	16	1	1	1	3	2		1	5	5	1		3	4	2	60	1000	5	200	média	solteira
+118	1	3	16	2	2	1	3	2		2	3	6	1		3	3	3		510	6	85	Não sabe	Não sabe
+119	1	2	21	1	1	1	3	1	2	2	5	4	1		1	3	2	120	640	4	160	média	solteira
+120	1	4	22	1	1	1	3	1	1	1	3	2	6	duplex	3	3	3		500	2	250	média baixa	solteira
+121	1	4	18	1	1	1	3	2		2	3	5	1		1	3	3		600	5	120	baixa	solteira
+122	1	4	19	3	2	1	2	1	2	2	6	3	1		3	3	3		512	3	171	não sabe	casada
+123	1	4	19	1	1	1	6	2		2	3	3	1		1	3	3		1000	3	333	pobre	solteira
+124	1	2	21	2	4	1	5	2		2	5	6	1		2	3	2	112	450	6	75	nem rico nem pobre	separada
+125	1	3	17	1	1	1	2	2		1	3	6	1		3	3	2	53	200	6	33	não sabe	solteira
+126	1	4	22	1	4	1	2	1	1	1	5	3	1		1	3	1	518	700	3	233	pobre	solteira
+127	1	2	21	1	3	1	2	1	1	2	3	3	1		1	3	2	200	200	3	67	média	solteira
+128	1	2	20	2	2	1	3	1	1	2	5	3	1		3	3	3		400	3	133	pobre	solteira
+129	1	2	17	2	4	1	1	1	2	2	5	5	1		1	3	3		1000	4	250	média	casada
+130	1	2	16	1	4	1	1	1	1	1	5	6	1		1	4	2	52	2000	6	333	média baixa	solteira
+131	1	2	18	1	1	1	1	1	1	2	6	3	1		1	3	2	1	1000	3	333	baixa	solteira
+132	1	2	16	1	1	1	2	1	1	2	5	7	1		1	3	3		1200	7	171	pobre	solteira
+133	1	2	21	1	1	1	3	2		2	6	3	1		1	3	3		400	3	133	baixa	solteira
+134	1	2	18	1	1	1	1	1	2	1	3	8	1		1	4	3		500	8	63	baixa	solteira
+135	1	2	17	1	1	1	3	2		2	4	6	1		1	4	3		465	6	78	média	solteira
+136	1	2	16	1	4	1	1	1	1	1	5	8	1		1	4	3		465	8	58	baixa	solteira
+137	1	3	19	1	1	1	1	1	1	1	5	6	1		1	4	3		4000	6	667	baixa	solteira
+138	1	2	22	1	1	1	2	2		1	5	4	1		3	3	2	90	465	4	116	baixa	solteira
+139	1	2	22	1	1	1	3	1	1	1	5	2	1		3	3	1	490	530	2	265	pobre	casada
+140	1	2	21	2	2	1	3	2		2	6	6	1		3	3	3		900	6	150	baixa	solteira
+141	1	3	18	1	1	1	1	1	1	2	5	5	1		1	3	3		500	5	100	solteira	1
+142	1	2	18	1	4	1	1	1	1	1	5	6	1		1	3	3		600	6	100	baixa	solteira
+143	1	2	16	1	1	1	2	2		2	5	4	1		1	3	3		300	4	75	baixa	solteira
+144	1	2	17	1	2	1	1	2		2	3	5	1		3	3	3		500	5	100	baixa	solteira
+145	1	2	21	1	1	1	3	2		2	3	4	1		3	3	3		250	4	63	pobre	solteira
+146	1	2	19	1	1	1	3	1	1	2	6	7	1		1	4	3		500	7	71	baixa	solteira
+147	1	3	22	1	1	1	3	2		2	4	7	1		1	4	2	221	1200	7	171	pobre	solteiro
+148	1	4	20	3	3	1	2	1	2	2	3	3	1		4	3	2	90	200	3	67	pobre	solteiro
+149	1	2	20	1	1	1	3	2		1	3	4	1		1	4	3		700	4	175	baixa	solteiro
+150	1	3	17	1	1	1	98	2		2	3	6	1		1	3	3		465	6	78	não sabe	solteiro
+151	1	3	18	1	2	1	6	2		2	3	8	1		1	4	3		465	8	58	média	solteiro
+152	1	2	20	1	1	1	3	2		2	4	3	1		1	4	3		465	3	155	baixa	solteiro
+153	1	4	18	1	1	1	5	2		2	5	4	1		1	3	4	250	450	4	113	pior que tem	solteiro
+154	1	3	22	1	2	1	3	2		2	4	4	1		3	3	2	112	812	4	203	humilde	solteiro
+155	1	3	20	1	1	1	3	1	1	1	5	4	1		3	3	2	112	612	4	153	pobre	solteiro
+156	1	2	20	1	1	1	3	1	1	1	7	5	1		1	4	3		900	5	180	média	solteira
+157	1	2	19	1	1	1	1	2		2	3	3	1		3	3	3		400	3	133	média	solteira
+158	1	4	19	1	1	1	3	1	1	2	5	2	1		1	3	2	150	200	2	100	média	solteira
+159	1	2	20	1	1	1	2	2		2	5	3	1		3	3	4	100	560	3	187	baixa	solteira
+160	1	4	22	1	1	1	1	2		2	3	3	1		1	3	2	112	112	3	37	pobre	solteiro
+161	1	3	19	1	1	1	3	1	2	2	6	3	1		6	3	3		200	3	67	média	solteiro
+162	1	4	19	1	1	1	1	2		2	5	3	1		3	3	1	300	700	3	233	pobre	solteira
+163	1	3	19	1	1	1	3	1	1	2	3	5	1		1	4	3		1500	98	15	pobre	solteira
+164	1	3	17	1	1	1	1	1	2	2	4	8	1		1	4	2	132	2000	8	250	média	solteira
+165	1	3	20	1	1	1	3	2		2	6	3	1		1	3	3		460	3	153	baixa	mora junto
+166	1	3	18	1	1	1	5	1	1	2	3	2	1		3	3	3		0	0		pobre	solteiro
+167	1	3	20	1	1	1	3	1	2	2	6	5	1		1	4	1	460	1500	5	300	média	solteiro
+168	1	4	18	1	3	1	2	2		2	3	6	1		3	3	3		815	6	136	não sabe	não sabe
+169	1	3	19	1	4	1	3	2		1	3	4	1		1	3	2	90	500	98	5	pobre	solteira
+170	1	2	20	3	2	1	5	1	1	2	3	4	1		1	3	3		250	2	125	não sabe	não sabe
+171	1	3	19	1	1	1	3	1	6	2	6	6	1		2	4	3		400	6	67	baixa	solteira
+172	1	2	20	1	1	1	5	2		1	3	7	1		1	3	3		900	7	129	normal	solteira
+173	1	2	22	1	1	1	1	1	2	2	5	4	1		1	3	2	90	600	4	150	baixa	solteira
+174	1	3	17	2	1	1	1	2		2	3	3	1		1	3	3		460	3	153	não sabe	não sabe
+175	1	1	17	2	3	1	3	2		2	3	4	1		3	3	2	130	300	4	75	média	casada
+176	1	1	20	1	4	1	3	1	5	2	3	2	1		1	3	4	300	300	2	150	pobre	solteira
+177	1	1	20	1	98	1	3	2		1	6	4	2		1	3	1	240	300	4	75	pobre	solteira
+178	1	1	19	1	4	1	1	2		2	3	5	1		1	3	3		465	5	93	pobre	casada
+179	1	1	21	4	2	1	3	2		2	5	8	2		1	3	3		800	7	114	pobre	solteira
+180	1	1	21	2	4	1	3	2		1	3	7	1		1	3	2	210	700	7	100	média	solteira
+181	1	1	21	1	4	1	1	1	2	2	4	3	1		1	4	3		600	3	200	média	casado
+182	1	1	21	1	4	1	2	1	1	1	4	3	1		1	3	2	66	350	3	117	pobre	casada
+183	1	1	20	2	3	1	1	2		1	4	3	2		3	4	3		2000	3	667	classe média	mora junto
+184	1	3	20	1	1	1	2	2		1	5	7	1		1	3	3		550	7	79	média	solteira
+185	1	3	22	1	1	1	1	1	1	2	5	5	1		1	3	3		965	5	193	normal	casada
+186	1	2	18	2	3	1	2	2		2	4	6	1		3	4	3		1	6	0	baixa	solteira
+187	1	2	17	1	1	1	1	1	3	1	5	7	1		2	3	2	150	1395	7	199	não sabe	solteira
+188	1	4	20	1	1	1	1	2		1	3	3	1		2	3	2	190	200	3	67	média	solteira
+189	1	4	18	2	3	1	6	2		2	3	4	1		3	3	3		700	4	175	não sabe	solteira
+190	1	2	19	1	1	1	3	2		2	3	4	1		1	4	3		900	4	225	não sabe	solteira
+191	1	2	17	1	1	1	3	2		1	3	4	1		1	3	3		92	3	31	não sabe	solteira
+192	1	3	19	1	3	1	2	1	1	2	5	3	1		1	3	3		320	3	107	média	solteira
+193	1	3	17	2	2	1	1	1	1	2	3	7	1		3	4	3			7		não sabe	solteira
+194	1	3	21	1	1	1	3	1	1	2	3	9	1		1	4	2	90	1	98	0	não sabe	solteira
+195	1	2	20	1	1	1	3	1	2	1	3	3	1		3	3	2	90	700	3	233	média	solteira
+196	1	1	20	1	4	1	2	1	1	2	5	4	1		3	3	1	70	300	6	50	baixa	solteira
+197	1	2	22	1	1	2	2	2		2	3	2	1		1	3	3		250	2	125	não sabe	solteira
+198	1	2	17	1	1	1	3	2		2	3	5	1		1	4	2	500	1500	6	250	baixa	solteiro
+199	1	2	16	1	1	1	3	2		2	3	6	1		1	4	3		900	6	150	média	solteira
+200	1	3	17	1	1	1	3	2		2	3	4	1		1	3	1	100	250	4	63	baixa	solteira
+201	1	1	1	1	1	1	3	1	2	2	3	3	1		1	3	3		465	3	155	não sabe	solteira
+202	1	2	18	1	1	1	3	1	1	1	5	7	1		2	4	3		500	7	71	baixa	solteira
+203	1	2	18	1	1	1	3	2		2	3	4	1		3	3	1	160	700	4	175	baixa	solteira
+204	1	3	22	1	1	1	2	2		2	6	3	1		1	3	2	22	800	4	200	pobre	solteira
+205	1	3	20	4	1	1	3	1	1	1	3	4	1		1	4	2	190	700	4	175	baixa	solteira
+206	1	3	21	1	1	1	5	1	1	2	5	3	1		1	3	3		240	3	80	não sabe	solteira
+207	1	2	20	1	1	1	6	1	1	1	3	5	1		1	3	3		1	5	0	não sabe	não sabe
+208	1	2	19	1	1	1	3	2		2	4	3	1		3	3	3		500	3	167	não sabe	casada
+209	1	4	19	1	1	1	3	2		2	3	7	1		1	3	2	90	490	7	70	simples	solteira
+210	1	3	22	1	1	1	3	1	1	2	6	3	1		3	3	2	300	840	3	280	baixa	solteira
+211	1	2	22	1	1	1	3	2		2	6	5	1		1	3	2	90	855	5	171	não sabe	solteira
+212	3	4	19	2	1	1	1	2		2	6	5	1		2	4	3		1500	5	300	pobre	solteiro
+213	3	4	18	2	4	1	1	2		1	3	3	1		4	3	3		700	3	233	solteira	5
+214	3	4	19	2	1	1	2	1	4	1	5	3	1		1	3	1	600	1200	3	400	média	solteira
+215	3	4	19	2	1	1	3	2		2	3	4	1		4	3	3		800	4	200	baixa	solteira
+216	3	4	20	3	4	1	2	2		2	6	3	1		1	3	1	1000	2000	3	667	não respondeu	solteira
+217	3	4	19	1	1	1	2	2		2	4	3	1		1	3	1	450	800	3	267	baixo	solteira
+218	3	4	20	1	1	1	6	2		1	7	7	1		1	5	1	750	3000	7	429	média	solteira
+219	3	4	18	3	2	1	3	2		2	3	4	1		1	3	3		800	4	200	média	casada
+220	3	4	21	1	1	1	1	1	1	2	4	6	1		1	4	1	700	1500	6	250	média	solteira
+221	3	4	20	3	2	1	1	1	1	2	3	4	1		1	3	1	1200	3200	4	800	baixa	casada
+222	3	3	15	2	3	1	6	1	2	1	3	5	1		1	3	3		800	5	160	baixa	solteira
+223	3	4	15	2	2	1	1	2		2	3	5	1		1	3	3		900	4	225	não sabe	solteira
+224	3	2	20	3	3	1	3	1	2	2	5	4	1		1	3	2	530	650	3	217	baixa	solteira
+225	3	4	16	4	2	1	2	2		2	3	8	1		1	4	1	325	1	8	0	baixa	solteira
+226	3	2	19	2	2	1	98	2		2	4	6	1		1	4	1	300	465	6	78	média	casada
+227	3	3	8	2	1	1	1	1	1	2	3	3	1		1	3	3		450	3	150	média	casada
+228	3	2	16	3	2	1	1	2		2	4	3	1		3	3	3		600	3	200	baixa	solteiro
+229	3	4	21	2	3	1	2	1	1	2	3	4	1		2	3	1	350	1100	4	275	baixa	solteira
+230	3	3	17	2	1	1	2	1	1	2	5	4	1		3	4	3		1900	4	475	baixa	solteira
+231	2	2	16	1	1	1	3	1	2	2	5	6	1		1	4	3		490	6	82	média	solteira
+232	2	2	21	1	1	1	2	2		2	6	5	1		1	3	3		1000	5	200	pobre	solteira
+233	2	2	18	1	3	1	3	1	6	1	5	3	1		1	3	1	240	700	3	233	baixa	solteira
+234	2	2	21	1	1	1	3	2		2	3	3	1		1	3	3		400	3	133	média	solteira
+235	2	2	18	1	1	1	2	2		2	3	11	1		3	4	3		700	11	64	baixa	juntada
+236	2	2	17	1	1	1	3	1	1	2	3	3	1		1	3	3		400	3	133	média	solteira
+237	2	2	20	1	1	1	5	1	2	2	6	3	1		1	4	1	800	1500	3	500	baixa	casada
+238	2	1	16	1	1	1	98	1	2	2	3	3	1		3	3	3		400	3	133	baixa	solteira
+239	2	2	15	1	1	1	3	2		2	3	5	1		1	3	3		400	5	80	média	solteira
+240	2	2	17	1	1	1	1	2		2	5	5	1		1	4	3		800	5	160	Baixa	solteira
+241	2	2	22	1	1	1	3	1	1	2	5	4	1		1	3	2	65	100	4	25	média	solteira
+242	2	4	18	1	4	1	6	2		2	3	7	1		1	3	3		1	99	0	baixa	solteira
+243	2	2	19	1	4	1	2	1	1	1	5	3	1		3	3	3		510	3	170	baixa	solteira
+244	2	2	20	1	1	1	3	1	2	2	4	6	1		1	4	1	600	1700	6	283	baixa	solteira
+245	2	3	18	1	1	1	1	2		1	5	5	1		3	4	3		1500	5	300	alta	solteira
+246	2	2	21	1	1	2	3	2		2	3	2	1		1	3	1	600	600	2	300	baixa	solteira
+247	2	3	22	4	2	1	2	2		2	6	9	1		1	4	3		1	99	0	baixa	solteira
+248	2	2	19	3	4	1	2	1	2	2	5	3	1		1	3	3		600	3	200	média	solteira
+249	2	2	19	2	4	1	2	1	1	2	5	5	1		3	4	3		510	5	102	não sabe	solteira
+250	2	4	19	1	1	1	3	1	2	2	5	3	1		3	3	1	575	1200	3	400	baixa	solteira
+510	2	4	21	3	2	1	98	2		1	5	3	1		1	3	3		1900	3	633	média	casada
+511	2	4	21	1	1	1	98	1	2	2	3	11	1		3	3	2	112	262	11	24	baixa	solteira
+512	2	4	21	1	1	1	3	2		2	6	3	1		1	3	1	200	1200	3	400	média	solteira
+513	2	2	18	1	1	1	3	2		2	3	5	1		3	3	3		550	5	110	pobre	solteiro
+251	1	3	19	1	1	1	3	1	1	2	3	4	1		3	3	3		200	4	50	Pobre	Solteira
+252	1	3	19	4	4	1	3	2		2	4	3	2		3	4	3		465	3	155	Baixa	Solteira
+253	1	2	22	2	1	1	3	2		1	3	3	1		1	3	2	100	600	2	300	Humilde	Solteira
+254	1	3	21	1	98	1	3	2		2	3	3	1		4	3	3		90	3	30	Média	Solteira
+255	1	3	16	1	1	1	3	2		2	3	8	1		2	3	3		500	3	167	Baixa	Solteira
+256	1	3	19	1	1	1	98	2		2	3	9	1		2	4	2	112	350	9	39	Biaxa	Solteira
+257	1	3	18	1	1	1	3	2		2	3	3	1		1	3	3		250	3	83	Média	Solteira
+258	1	3	17	1	1	1	3	1	1	1	4	5	1		2	4	2	100	500	5	100	Média-baixa	Solteira
+259	1	4	20	1	1	1	2	2		2	3	5	1		1	4	3		465	5	93	média	Solteira
+260	1	2	16	2	1	1	3	2		2	3	6	1		1	4	3		930	6	155	Média	Solteira
+261	1	2	17	1	2	1	2	2		2	3	3	1		1	3	3		400	3	133	Baixa	Solteira
+262	1	4	19	2	1	1	3	2		1	3	3	1		1	4	3		465	3	155	Média	Solteira
+263	1	4	17	2	4	1	1	2		2	4	3	1		3	3	3		200	3	67	Baixa	Solteira
+264	1	4	19	2	4	2	3	1	2	2	5	4	1		1	4	3		405	4	101	Média	Solteira
+265	1	4	19	1	1	2	2	2		2	3	3	1		3	3	3		400	3	133	Pobre	Solteira
+266	1	4	20	1	4	2	3	1	2	2	6	3	1		3	3	1	200	500	3	167	Baixa	Solteira
+267	1	3	22	1	1	1	3	1	2	2	3	5	1		2	3	2	82	250	5	50	Baixa	Solteira
+268	1	4	18	1	1	2	3	2		2	3	7	1		3	4	2	90	900	7	129	Baixa	Solteira
+269	1	2	18	1	1	1	3	2		2	3	2	1		3	3	2	300	300	2	150	Média	Solteira
+270	1	3	15	1	1	1	3	2		1	3	6	1		2	4	3		700	6	117	Média	Solteira
+271	1	4	22	1	1	1	3	1	2	2	3	3	1		4	4	2	112	500	4	125	Média	Solteira
+272	1	2	16	1	1	1	6	2		2	3	3	1		1	4	3		450	3	150	Não sabe	Casada
+273	1	2	19	2	4	1	3	1	6	2	3	6	1		2	4	1	200	865	6	144	Média	Solteira
+274	1	4	20	1	3	1	3	1	1	2	5	4	1		3	4	2	100	500	4	125	Média	Solteira
+275	1	3	16	1	1	1	3	2		1	3	4	1		1	3	3		450	6	75	Não sabe	Solteira
+276	1	2	18	1	1	1	2	1	2	1	5	2	1		1	3	3		600	2	300	Média	Casada
+277	1	2	21	1	1	1	2	1	1	2	5	7	1		1	3	2	570	900	7	129	Baixa	Solteira
+278	1	4	19	1	1	1	6	1	2	2	3	3	1		2	3	3		650	3	217	Média	Solteira
+279	1	4	18	1	1	1	2	2		2	5	3	1		1	3	3		450	3	150	média	Solteira
+280	1	4	17	2	4	1	1	2		2	3	3	1		3	3	3		400	3	133	Média	Casada
+281	1	3	22	1	4	1	3	2		2	5	8	1		1	4	2	70	1162	7	166	Baixa	Solteira
+282	1	2	19	1	3	1	1	1	2	2	5	7	1		1	3	2	170	465	0		Pobre	Solteira
+283	1	4	17	1	3	1	3	2		1	4	5	1		1	3	3		130	5	26	Baixa	Solteira
+284	1	3	20	2	1	1	1	2		2	3	5	1		2	3	2	132	590	5	118	Baixa	Solteira
+285	1	3	19	1	1	1	6	1	2	2	4	5	1		2	3	2	90	1000	5	200	Média	Solteira
+286	1	2	20	1	1	1	2	2		2	5	3	1		3	3	1	120	120	3	40	Baixa	Solteira
+287	1	2	18	1	1	1	6	2		2	3	10	1		1	3	3		134	10	13	Baixa	Solteira
+288	1	2	20	2	4	1	3	2		2	3	5	1		1	4	3		1	0		Não sabe	Solteira
+289	1	2	18	1	1	1	5	1	1	2	3	8	1		2	3	3		190	8	24	Não sabe	Solteira
+290	1	3	20	1	1	1	3	1	2	2	5	3	1		1	4	1	460	800	3	267	Baixa	Casada
+291	1	1	17	1	1	1	1	1	3	1	5	7	1		1	3	3		900	7	129	Não sabe	Solteira
+292	1	3	22	2	4	1	1	2		2	3	4	1		3	3	3		400	4	100	Não sabe	Solteira
+293	1	4	19	1	1	1	1	2		2	3	10	1		1	3	3		300	10	30	Não sabe	Solteira
+294	1	2	21	1	1	1	5	1	2	2	5	3	1		3	3	2	90	500	4	125	Pobre	Solteira
+295	1	3	20	1	1	1	2	2		2	3	6	1		1	3	3		800	6	133	Normal	Solteira
+296	1	3	20	1	1	1	3	2		2	3	3	1		3	3	2	465	465	3	155	Baixa	Solteira
+297	1	3	18	1	1	1	2	2		2	5	3	1		3	3	3		200	3	67	Média	Solteira
+298	1	2	17	1	1	1	1	1	1	2	3	8	1		1	4	3		600	7	86	Não sabe	Solteira
+299	1	1	17	1	1	1	1	1	1	2	3	4	1		3	3	3		500	4	125	Média	Solteira
+300	1	2	20	1	1	1	1	1	2	2	3	8	1		1	3	1	150	450	6	75	Pobre	Casada
+301	1	3	22	1	1	1	3	2		2	3	8	1		1	4	1	280	800	8	100	Pobre	Solteira
+302	1	3	18	1	1	1	3	2		2	5	6	1		3	3	3		1100	6	183	Baixa	Solteira
+303	1	2	22	1	1	1	1	2		2	3	2	1		3	3	2	112	112	2	56	Não sabe	Solteira
+304	1	3	20	1	1	1	6	2		2	3	9	1		1	3	3		900	9	100	Não sabe	Solteira
+305	1	4	19	1	1	1	2	1	1	1	5	4	1		1	4	2	250	1200	4	300	Não sabe	Solteira
+306	1	2	21	1	1	1	2	1	1	2	6	5	1		1	4	1	465	1000	5	200	Média	Solteira
+307	1	4	22	1	1	1	3	2		1	3	6	1		1	4	2	234	950	6	158	Baixa	Solteira
+308	1	3	18	1	1	1	3	1	1	2	3	3	3		3	3	3			3		Pobre	Amigada
+309	1	2	19	1	1	1	5	2		2	3	4	1		1	4	1	300	900	5	180	Pobre	Solteira
+310	1	3	22	2	1	1	2	1	1	1	5	4	1		1	4	3		250	4	63	Média	Solteira
+311	2	1	21	1	1	1	1	1	1	2	6	3	1		3	3	1	465	800	3	267	Média	Amigada
+312	1	3	19	1	1	1	3	1	2	1	3	7	1		1	1	3		830	7	119	Pobre	Solteira
+313	1	3	19	2	2	1	3	2		2	3	3	1		4	3	3		450	3	150	Média	Solteira
+314	1	3	17	1	1	1	5	2		2	5	9	1		1	6	4	123	200	3	67	Pobre	Amigada
+315	1	3	16	1	1	1	3	2		2	3	4	1		1	3	3		1500	4	375	Pobre	Solteira
+316	1	3	16	2	4	1	3	1	1	1	5	7	1		1	4	3		1000	7	143	Normal	Amigada
+317	1	1	19	1	4	1	3	2		2	6	7	1		1	4	1	442	2000	7	286	Baixa	Solteira
+318	1	4	20	1	3	1	2	1	2	2	5	5	1		1	3	2	112	112	5	22	Pobre	Solteira
+319	1	3	19	1	1	1	6	1	2	1	4	4	1		1	4	2	375	2600	7	371	Pobre	Solteira
+320	1	3	21	4	4	1	3	1	1	2	6	3	1		4	3	2	90	800	4	200	Média	Solteira
+321	1	2	21	2	3	1	1	2		2	6	3	1		4	3	2	90	555	3	185	Nem pobre, nem rica, melhorzinha né?	Casada
+322	1	3	15	4	4	1	98	2		2	3	8	1		3	4	3			8		Não sabe	Solteira
+323	3	4	22	4	2	2	1	2		1	7	3	1		3	4	4	4000	4000	3	1333	Média Alta	Solteira
+324	3	4	21	1	1	1	1	2		2	6	3	1		1	4	1	510	1500	3	500	Médio	Solteira
+325	3	4	17	1	1	2	2	2		1	5	3	1		1	3	3		510	3	170	Baixa	Solteira
+326	3	4	21	2	4	1	1	1	2	2	3	2	1		3	3	1	600	600	2	300	Baixa	Solteira
+327	3	4	22	1	1	1	2	1	4	2	3	3	1		1	3	1	586	1100	3	367	Baixa	Solteira
+328	3	4	16	2	2	2	1	2		2	3	5	1		3	4	3			5		Baixa	Solteira
+329	3	1	18	3	2	1	2	1	1	1	3	14	6		4	5	3		400	14	29	Média	Solteira
+330	3	4	19	1	1	1	1	1	1	2	3	4	1		2	3	1	250	1000	4	250	Pobre	União Consensual
+331	3	3	19	3	2	1	1	1	1	2	6	3	1		2	4	1	800	2000	2	1000	Média	Solteira
+332	3	3	18	1	1	1	2	1	1	1	5	6	1		2	4	2	100	1000	6	167	Média	Solteira
+333	3	1	18	3	2	1	98	2		2	4	3	2		3	3	1	500	500	3	167	Baixa	Solteira
+334	3	2	22	1	1	1	2	2		2	5	3	1		2	3	3		400	3	133	Baixa	Solteira
+335	3	4	15	2	2	1	3	2		2	3	2	1		3	3	2	465	465	2	233	Média	Solteira
+336	3	4	19	1	1	1	3	1	2	2	3	4	1		3	4	1	275	600	3	200	Baixa	Solteira
+337	3	1	17	1	1	1	2	2		2	3	3	1		3	3	3			3		Baixa	Casada
+338	3	1	16	1	1	1	1	2		2	3	10	1		1	4	3		700	10	70	Baixa	Solteira
+339	3	1	19	1	1	1	2	1	1	2	6	8	1		1	4	3			8		Média	Solteira
+340	3	1	20	1	1	1	3	1	2	2	4	4	1		1	4	3		465	4	116	Média	Solteira
+341	3	1	18	1	1	1	2	2		2	3	7	1		1	3	3					Baixa	Solteira
+342	3	2	22	1	1	1	2	1	1	2	6	5	1		1	4	3		2000	5	400	Média	Solteira
+343	3	1	22	1	1	2	1	2		2	4	3	1		1	3	3		930	4	233	Média Solteira	5
+344	3	1	20	1	1	1	2	2		1	6	3	1		1	5	3		800	3	267	Baixa	Soleira
+345	3	1	22	2	2	1	1	2		2	3	5	1		1	3	3		300	5	60	Baixa	Solteira
+346	3	1	21	1	1	1	2	1	1	2	3	3	1		1	3	3		1200	3	400	Média	Solteira
+347	3	1	20	1	1	1	1	2		2	6	8	1		1	5	3					Média	Solteira
+348	3	1	22	1	1	1	2	1	1	2	5	5	1		1	4	1	465	930	5	186	Média baixa	Solteira
+349	3	1	20	1	1	1	2	1	1	2	6	3	1		1	3	1	800	2000	3	667	Média	Solteira
+350	3	1	16	1	1	1	3	2		2	3	3	1		1	3	3		500	3	167	Média	Solteira
+351	3	1	22	1	1	1	2	2		2	5	4	1		1	3	4	90		4		Média baixa	Solteira
+352	3	4	21	1	1	2	2	2		2	5	7	1		1	3	3		800	7	114	Baixa	Solteira
+353	3	1	16	1	1	2	2	1	2	2	5	3	1		1	3	3		381	3	127	Baixa	Solteira
+354	3	1	18	1	1	2	3	2		2	5	5	1		1	3	3		1400	5	280	Biaxa	Solteira
+355	3	1	22	1	1	2	2	2		2	3	6	1		1	3	4	112	512	6	85	Baixa	Solteira
+356	3	1	15	1	1	1	2	2		2	3	8	1		1	4	2	1000	550	8	69	Média	Solteira
+357	3	1	22	1	1	1	2	1	1	2	5	7	1		1	4	3		1000	7	143	Baixa	Solteira
+358	3	1	17	1	1	2	2	2		2	3	6	1		1	3	4	100	700			Baixa	Solteira
+359	3	1	20	1	1	1	1	1	3	2	4	6	1		1	4	2	100	900	4	225	Média	Solteira
+360	3	1	20	1	1	1	2	1	1	2	5	3	1		1	3	1					Baixa	Solteira
+361	3	1	17	1	1	1	2	1	2	2	3	4	1		1	3	3					Média	Solteira
+362	3	4	17	1	1	1	3	2		2	3	4	1		1	3	3		600	4	150	Baixa	Solteira
+363	3	1	17	1	1	1	2	1	1	2	5	4	1		1	3	2	150	450	4	113	Média	Solteira
+364	3	4	19	1	1	2	2	2		2	4	6	1		1	3	3		700	6	117	Baixa	Solteira
+365	3	1	22	1	1	1	1	2		2	6	4	1		1	3	1	465	1000	4	250	Média	Solteira
+366	3	3	19	2	4	1	1	1	1	1	5	3	1		4	3	1	500	900	3	300	Média	Solteira
+367	3	2	19	2	3	1	1	1	1	2	4	3	1		1	3	1	700	1400	3	467	Baixa	Casada
+368	3	4	21	1	1	1	3	1	1	2	6	6	1		1	4	1	650	2045	6	341	Baixa	Solteira
+369	3	2	15	4	3	1	6	2		2	3	4	1		3	3	4		1000	4	250	Mínima	Solteira
+370	3	3	17	3	3	1	1	1	1	2	5	3	1		1	3	3		800	3	267	Baixa	Solteira
+371	3	3	18	3	3	1	1	1	1	2	3	5	1		1	3	4		700	5	140	Baixa	Solteira
+372	3	2	18	3	2	1	1	1	3	1	5	6	1		3	3	1	500	2900	6	483	Média	Solteira
+373	3	2	20	1	1	1	3	1	2	2	3	5	1		2	3	3		450	5	90	Média	Solteira
+374	3	3	21	1	1	1	1	1	1	2	5	3	1		1	3	3					Média	Solteira
+375	3	3	20	1	1	1	2	2		2	3	4	1		1	3	1	465	465	3	155	Baixa	Solteira
+376	3	2	19	1	1	1	2	2		2	3	2	1		1	3	3					Pobre	Solteira
+377	3	4	17	1	1	1	1	2		2	3	2	1		1	4	3		8000	3	2667	Alta	Solteira
+378	3	3	17	3	2	1	1	1	2	2	3	3	1		1	3	3		700	3	233	Baixa	Solteira
+379	3	4	16	1	1	1	1	2		1	5	7	1		1	4	3					Média	Solteira
+380	3	3	18	1	1	1	1	2		2	3	3	1		1	3	3					Média	Solteira
+381	3	1	16	2	2	1	1	2		2	3	5	1		4	3	3		1570	5	314	Média	Solteira
+382	3	2	17	1	1	1	1	2		2	3	3	1		1	3	3		1000	3	333	Média	Solteira
+383	3	1	17	3	3	1	1	2		2	3	3	1		3	4	3		2500	3	833	Média	Solteira
+384	3	3	18	2	3	1	1	2		2	3	4	3		3	3	1	476	1043	4	261	Baixa	Solteira
+385	3	3	16	1	3	1	3	1	2	2	6	3	1		4	3	3		700	3	233	Média baixa	Solteira
+386	3	3	22	2	4	1	3	2		2	4	3	1		1	3	1	500	1500	3	500	Média	Casada
+387	3	3	17	3	2	1	1	2		2	3	4	1		4	3	1	490	1120	5	224	baixa	solteira
+388	3	2	19	3	4	1	1	1	2	2	3	7	1		1	3	3		2060	7	294	Média	Casada
+389	3	2	18	2	2	1	3	2		2	5	5	1		3	3	3		1000	5	200	Baixa	Solteira
+390	3	2	20	3	3	1	3	2		2	5	6	1		1	5	3		600	4	150	Média	Casada
+391	3	2	17	1	1	1	1	2		2	3	3	1		3	3	3		500	3	167	Pobre	Amigada
+392	3	4	19	1	1	1	1	1	1	2	4	3	1		1		1	530	1600	2	800	Média	Solteira
+393	3	3	18	2	3	1	3	1	1	2	5	6	1		3	4	2	480	1800			Baixa	Solteira
+394	3	1	17	2	2	2	6	2		2	3	6	1		3	3	3		900	6	150	Baixa	Solteira
+395	3	2	18	1	1	1	3	2		2	5	6	1		1	4	3		900			Baixa	Solteira
+396	3	3	19	1	1	1	1	1	1	2	6	6	2		6	4	1	500	2000	6	333	Média	Solteira
+397	3	2	18	1	1	1	1	1	1	2	6	3	1		3	3	2	60	760	3	253	Baixa	Solteira
+398	3	2	18	1	1	1	1	1	2	2	5	3	2		1	3	3		1200	3	400	Média	Casada
+399	3	3	19	4	3	1	1	1	1	2	5	7	1		1	3	1	700	1700	7	243	Baixa	Solteira
+400	3	1	17	2	1	1	3	2		2	3	5	1		2	3	3		500	5	100	Pobre	Amasiada
+401	3	3	20	4	2	1	3	1	2	2	4	4	1		3	3	3		1200	4	300	Média	Solteira
+402	3	4	16	1	1	1	3	2		2	3	3	1		2	3	3		700	3	233	Baixa	Solteira
+403	3	2	18	1	1	1	1	2		2	4	7	1		3	3	3		2450	7	350	Média	Solteira
+404	2	3	18	1	1	1	3	2		1	5	4	1		1	3	1	200	900	4	225	Baixa	Solteira
+405	2	1	22	1	4	1	3	1	2	1	5	4	1		1	3	3		1200	4	300	Baixa	Casada
+406	2	4	20	1	4	2	2	2		2	6	3	3		4	3	3		5000	3	1667	Pobre	Solteira
+407	2	3	16	1	1	1	3	2		2	3	5	1		3	4	3		860	5	172	Baixa	Casada
+408	2	2	21	1	1	1	3	1	2	2	6	3	1		1	3	3		1000	3	333	Pobre	Casada
+409	2	2	16	1	1	1	3	1	1	1	5	3	1		3	3	2	22	600	3	200	Baixa	Casada
+410	2	2	19	1	1	1	3	1	1	2	4	3	1		3	3	2	510	8000	3	2667	Média	Casada
+411	2	3	19	1	2	1	3	2		2	5	4	1		1	3	3		1000	4	250	Baixa	Casada
+412	2	3	17	1	1	1	6	2		2	4	3	1		3	3	3		500	3	167	Não sabe	Solteira
+413	2	4	16	1	2	1	3	2		2	3	5	1		3	3	2	100	800	5	160	Média	Separada
+414	2	2	19	1	1	1	98	1	2	2	3	8	1		1	3	3		1500	8	188	Baixa	Solteira
+415	2	4	21	1	2	1	3	1	1	2	3	5	1		1	3	3		500	5	100	Média	Solteira
+416	2	4	20	1	1	1	3	2		2	3	8	1		1	4	1	515	2500			Média	Solteira
+417	2	2	20	1	1	1	98	2		2	5	3	3		4	3	3		420	3	140	Média baixa	Solteira
+418	2	4	19	1	1	1	3	1	1	2	5	3	1		1	3	1	480	960	3	320	Média	Solteira
+419	2	1	19	1	1	1	3	2		1	5	4	1		1	4	3		3000	5	600	Média	Solteira
+420	2	2	19	3	1	1	2	1	1	2	6	8	1		1	4	3		2300			Média baixa	Solteira
+421	2	2	20	1	1	1	5	2		1	5	6	1		1	3	3		600	6	100	Baixa	Solteira
+422	2	3	20	1	1	1	2	2		2	6	8	1		1	3	1	100	2040	8	255	Média	União estável
+423	2	3	21	4	4	1	1	1	2	2	5	5	1		3	3	1	510	1020	5	204	Baixa	Solteira
+424	2	2	21	1	1	1	3	2		1	5	4	1		1	3	1	200	665	4	166	Baixa	Solteira
+425	2	4	22	3	4	1	3	1	2	2	6	2	1		3	3	1	500	700	2	350	Média	Casada
+426	2	4	18	1	1	1	3	2		2	5	4	1		1	3	3		800	4	200	Baixa	Solteira
+427	2	2	18	1	1	1	3	1	1	1	7	4	1		1	3	3		800	3	267	Baixa	Solteira
+428	2	3	17	1	1	1	3	2		1	5	5	1		1	3	2	150	600	5	120	Média Baixa	Solteira
+429	2	4	17	1	1	1	3	2		1	5	8	1		1	5	2	113	243	8	30	Baixa	Solteira
+430	2	4	19	1	4	1	3	2		2	6	3	1		1	3	3		800	3	267	Média	Solteira
+431	2	3	21	1	1	1	3	1	1	2	5	3	1		4	3	3		800	3	267	Média	Casada
+432	2	3	22	2	4	1	3	2		2	6	4	1		1	3	1	150	1500	4	375	Média	Solteira
+433	2	2	15	1	1	1	2	2		1	4	12	1		1	3	3		1100	12	92	Baixa	Solteira
+434	2	3	16	1	1	1	3	1	6	2	3	3	1		1	3	3		270	3	90	Baixa	Solteira
+435	2	3	17	1	1	1	98	2		1	4	7	1		1	3	3		900			Média	Solteira
+436	2	1	19	2	2	1	3	2		2	5	3	1		3	3	3		510	3	170	Baixa	Solteira
+437	2	1	21	1	1	1	3	2		2	4	3	1		1	3	3					Média	Solteira
+438	2	1	19	4	4	1	1	1	2	2	5	4	1		3	3	3		1200	4	300	Baixa	Solteira
+439	2	3	17	1	1	1	3	1	1	1	3	4	1		1	4	3		800	4	200	Pobre	Separada
+440	2	2	17	2	4	1	3	2		1	3	3	1		1	3	1	800	1000	3	333	Não sabe	Solteira
+441	2	1	17	2	3	1	6	2		2	3	4	6	Kitnet	3	3	4		400	4	100	Não sabe	Solteira
+442	2	3	20	1	4	1	6	1	2	2	3	5	1		1	4	3		690	5	138	Média	Solteira
+443	2	2	18	1	1	1	3	1	2	2	4	5	1		1	3	3		510	5	102	Média	Solteiro
+444	2	3	19	1	1	1	3	2		2	4	5	1		3	3	3		510	5	102	Pobre	Solteiro
+445	2	3	16	1	1	1	3	2		2	3	5	1		1	3	3		700	5	140	Baixa	Solteira
+446	2	3	16	1	1	1	6	2		1	3	4	1		1	3	3		760	3	253	Média	Solteira
+447	2	4	17	2	4	1	3	1	2	2	6	3	1		3	3	1	800	1600	3	533	Baixa	Solteira
+448	2	2	21	1	2	1	3	2		2	3	4	1		3	3	3		800	5	160	bAIXA	sOLTEIRA
+449	2	2	16	1	1	1	2	1	2	1	5	4	1		1	4	2	300	2500	4	625	Média baixa	Solteira
+450	2	4	21	1	1	1	2	2		2	3	2	1		1	3	3		70	2	35	Média baixa	Solteira
+451	2	2	22	1	1	1	3	2		2	6	6	1		2	4	1	600	1200	6	200	Baixa	Solteira
+452	2	3	17	1	1	1	1	2		2	3	6	1		1	4	3		510	6	85	Média	Solteira
+453	2	2	19	1	1	1	2	2		2	5	4	1		1	3	1	255	1100	4	275	Baixa	Casada
+454	2	2	18	1	1	1	2	2		2	5	3	1		3	3	1	520	800	3	267	Média	Solteiro
+455	2	4	18	1	1	1	3	2		2	5	3	1		1	3	3		400	3	133	Média	Solteira
+456	2	1	21	4	3	1	2	2		2	5	2	1		1	3	1	700	700	2	350	Pobre	Solteira
+457	2	3	18	1	1	1	3	2		2	5	5	1		5	4	3		598	5	120	Baixa	Casada
+458	2	3	18	1	1	1	3	1	2	2	3	3	1		1	3	2	190	510	3	170	Média	Casada
+459	2	1	20	1	1	1	98	2		2	6	7	1		1	3	3		400	7	57	Popular	Solteira
+460	2	3	21	1	1	1	6	2		2	3	5	1		3	3	3		518	5	104	Média	Juntada
+461	2	3	16	1	1	1	3	2		1	5	6	1		1	4	2	100	1	99	0	Média	Solteira
+462	2	3	18	1	1	1	3	1	2	2	5	6	1		3	4	3		1000	6	167	Baixa	Solteira
+463	2	3	22	1	1	1	3	1	2	2	6	3	1		1	3	3		1800	3	600	Média Baixa	Solteira
+464	2	2	20	1	1	1	3	2		2	4	3	1		3	3	3		510	3	170	Média	Solteira
+465	2	3	21	1	1	1	1	2		2	6	6	2		1	4	3		1020	3	340	Solteira	Solteira
+466	2	2	16	2	1	1	2	2		2	3	3	1		1	3	3		700	3	233	Baixa	União Estável
+467	2	2	21	1	1	1	3	1	2	2	6	7	1		1	4	3		700	7	100	Baixa	Solteira
+468	2	3	20	2	1	1	2	2		1	7	3	1		1	4	1	800	1400	3	467	Média Baixa	Solteira
+469	2	3	20	3	2	1	3	2		2	5	7	1		3	3	3		850	7	121	Média	Solteira
+470	2	2	20	2	1	1	2	1	6	2	3	3	1		1	3	2	300	700	3	233	Baixa	Solteira
+471	2	2	18	2	4	1	2	2		2	5	3	1		3	3	1	400	910	3	303	Baixa	Solteira
+472	2	2	19	1	1	1	2	2		1	5	8	1		1	3	1	350	1880	8	235	Baixa	Solteira
+473	2	2	20	1	1	1	3	2		2	6	3	1		3	3	3		1020	3	340	Alta	Solteira
+474	2	2	19	1	1	1	3	2		1	3	5	1		1	3	2	510	3810	5	762	Baixa	Solteira
+475	2	2	19	1	1	1	1	2		2	6	3	1		1	4	3		1400	3	467	Baixa	Solteira
+476	2	2	22	1	1	1	3	1	1	2	5	4	1		1	3	3		1000	4	250	Média	Solteira
+477	2	2	20	1	1	1	3	1	1	2	6	5	1		1	3	1	520	597	5	119	Média	Solteira
+478	2	2	21	1	2	1	3	1	2	2	5	4	1		3	3	3		600	4	150	Baixa	Solteira
+479	2	2	18	2	2	1	3	2		2	3	7	1		1	4	3		900	7	129	Baixa	Solteira
+480	2	2	19	1	1	1	3	2		2	3	4	1		3	3	3		1300	4	325	Média	União Consensual
+481	2	2	16	1	1	1	3	2		2	4	4	1		3	4	1	614	1500	4	375	Baixa	Solteira
+482	2	2	17	1	1	1	3	1	2	2	5	3	1		4	3	3		510	3	170	Baixa	Solteira
+483	2	4	21	1	4	1	2	2		1	5	4	1		1	3	1	400	400	4	100	Baixa	Solteira
+484	2	2	17	1	1	1	3	1	2	2	3	4	1		3	3	3		400	4	100	Baixa	Solteira
+485	2	2	16	1	1	1	2	2		1	3	11	1		1	3	3		750	11	68	Alta	Solteira
+486	2	2	20	2	2	1	2	2		2	3	1	3		3	3	3			1		Baixa	Solteira
+487	2	2	21	1	1	1	3	2		2	3	9	1		1	4	2	100	910	9	101	Média	Solteira
+488	2	2	17	1	1	1	3	2		1	5	3	1		1	3	3		800	3	267	Média	Solteira
+489	2	2	18	1	1	1	3	2		1	3	8	1		1	3	3		800	8	100	Pobre	Solteira
+490	2	2	19	1	1	1	1	1	2	2	3	3	1		1	3	3		465	3	155	Baixa	Casada
+491	2	2	19	1	1	1	3	2		2	5	3	1		1	3	3		1000	3	333	Baixa	Solteira
+492	2	3	22	1	1	1	3	2		2	5	3	1		1	3	1	300	810	3	270	Média	Casada
+493	2	3	18	1	2	1	3	2		2	3	6	1		3	4	3		900	6	150	Baixa	Solteira
+494	2	2	18	1	1	1	3	2		1	5	3	1		1	3	2	150	150	3	50	Média	Solteira
+495	2	2	19	1	1	1	3	2		2	3	3	1		1	4	3		510	3	170	Média	Solteira
+496	2	4	19	1	4	1	2	2		1	5	6	1		1	4	1	367	1400	6	233	Média	Solteira
+497	2	2	19	1	1	1	2	1	2	2	5	7	1		1	4	3		1500	7	214	Pobre	Solteira
+498	2	2	18	1	1	1	3	2		1	5	13	1		1	3	3		120	13	9	Baixa	Solteira
+499	2	1	19	2	2	1	3	1	2	2	5	3	1		3	3	3		600	3	200	Média	Estável
+500	2	2	17	2	2	1	1	2		2	5	2	1		3	3	2	90	250	2	125	Média baixa	Solteira
+501	2	3	19	1	1	1	2	1	2	2	5	3	1		4	3	2	250	1150	3	383	Média baixa	Casada
+502	2	2	17	1	1	1	6	1	2	1	5	6	1		1	3	3		760	6	127	Média	Casada
+503	2	4	18	1	1	1	2	2		2	6	3	2		3	3	1	600	2500	4	625	Média	Solteira
+504	2	2	18	4	2	1	3	1	2	2	4	3	1		1	3	3		500	3	167	Média	Solteira
+505	2	2	20	3	4	1	3	1	1	2	5	5	1		1	4	3		845	5	169	Baixa	Solteira
+506	2	2	16	1	1	1	3	2		2	5	3	1		1	3	1	150	150	3	50	Baixa	Solteira
+507	2	2	18	1	1	1	5	2		2	5	6	1		1	4	3		700	6	117	Média	Solteiro
+508	2	2	19	1	1	1	3	2		2	6	7	1		1	4	1	700	1500	7	214	Médio	Solteira
+509	2	2	19	1	1	1	1	1	2	2	5	3	1		1	3	3		450	3	150	Média	Solteira
+514	2	4	16	1	1	1	3	2		2	5	3	1		1	4	3		510	3	170	Baixa	Casada
+515	2	4	19	1	1	1	2	1	1	2	5	4	1		3	3	3		500	4	125	Média	Solteiro
+516	2	3	17	1	1	1	2	2		2	3	3	1		3	3	3		510	3	170	Média	Solteira
+517	2	3	18	1	1	1	3	2		1	5	5	1		1	4	3		510	5	102	Média	Solteira
+518	2	3	16	1	1	1	3	2		2	5	3	1		4	3	3		700	3	233	Média	Solteira
+519	2	4	22	1	1	1	2	2		2	6	6	1		1	3	3		800	6	133	Pobre	Solteira
+520	2	4	17	2	1	1	2	2		1	5	7	1		3	3	1	420	1350	7	193	Pobre	Solteira
+521	2	3	17	2	3	1	2	2		2	3	7	1		1	4	3		500	7	71	Média	Solteira
+522	2	3	19	1	1	1	3	2		2	3	4	1		1	3	3		500	4	125	Média	Solteira
+523	2	2	18	1	1	1	2	2		1	5	6	1		1	3	3		1000	6	167	Pobre	Solteira
+524	2	4	19	1	1	1	1	2		2	3	3	1		4	3	3		500	3	167	Média	Solteira
+525	2	4	20	1	1	1	2	1	2	2	5	7	1		1	3	2	112	500	7	71	Média	Solteira
+526	2	4	20	1	2	1	98	1	2	2	5	3	1		3	3	3		400	3	133	Baixa	Solteira
+527	2	2	16	1	1	1	3	2		2	3	6	1		3	3	3		890	6	148	Média	Solteira
+528	2	4	18	2	4	1	3	2		1	5	7	1		1	3	4	70	2800	7	400	Média	Solteira
+529	2	4	22	1	1	1	3	1	1	1	5	3	1		1	3	3		648	3	216	Média	Solteira
+530	2	3	20	1	1	1	3	1	1	2	5	7	1		1	3	3		3500	7	500	Média	Casada
+531	2	4	19	1	1	1	2	1	1	2	3	3	1		3	3	1	1300	2700	3	900	Nobre	Solteira
+532	2	3	22	1	1	1	1	2		2	5	4	1		1	3	2	112	2000	4	500	Baixa	Solteira
+533	2	4	19	1	1	1	3	1	2	1	3	3	1		1	3	2	100	900	3	300	Média	Casada
