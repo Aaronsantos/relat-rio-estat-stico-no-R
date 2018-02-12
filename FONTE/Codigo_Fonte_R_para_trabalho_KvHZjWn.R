@@ -1,34 +1,4 @@
-# Atividade de hoje (01/02/2018) - Realizar a leitura de um
-# banco de dados externo
 
-#Objetivo da aula:
-# 1. Retirar uma amostra de tamanho 60 para compor o banco de
-# dados de cada um individualmente
-
-dadosAaron <- read.table("D:\\Probabilidade\\fwdprobscripts\\Banco_de_dados_Trabalho.txt", header = T, sep ="\t")
-
-
-#Banco de dados Ok!!!!
-
-#Agora estamos prontos para tentar retirar nossa amostra
-# de tamanho 60.
-
-amostra <- dadosAaron[sample(nrow(dadosAaron), 60),]
-
-#--Escrevendo amostra em disco:
-write.table(amostra, file="D:\\Probabilidade\\fwdprobscripts\\amostraAaron.txt", sep = "\t")
-
-#--CARREGANDO AMOSTRA EM DISCO:
-amostra = read.table("~/Documentos/Code/R/PROJETO ESTATISTICA-20180206T113737Z-001/PROJETO ESTATISTICA/FONTE/amostraAaron.txt", header = T, sep = "\t", encoding="latin1")
-
-####### FUNÇÕES IMPLEMENTADAS: #########
-
-##MODA:##
-
-Mode <- function(x) {
-  ux <- unique(x)
-  ux[which.max(tabulate(match(x, ux)))]
-}
 
 # Pronto! Agora temos nosso banco de dados! Mãos a obra com as análises!
 
@@ -36,49 +6,6 @@ Mode <- function(x) {
 ###################    PASSO 1 #####################
 
 #Para o primeiro momento de an?lises, o interessante ? classificar cada um dos tipos de vari?veis que o banco tem
-
-
-## FREQUENCIA DE OCORRENCIA DE CADA CIDADE, ONDE totalNcidade[i] == total de participantes que marcaram o i valor no questionário
-freqNcidade = table(amostra[,2])
-
-##FREQUENCIA DE OCORRENCIA DE CADA LOCAL DE APLICAÇÃO DO QUESTIONÁRIO
-freqLocal = table(amostra[,3])
-
-##Frequencia de local de nascença
-freqCidade = table(amostra[,5])
-
-##FREQUENCIA DE TEMPO EM QUE VIVE NA CIDADE
-freqTempo = table(amostra[,6])
-
-##FREQUENCIA DO BAIRRO
-freqBairro = table(amostra[,7])
-
-#Frequencia cor de pele
-freqCor = table(amostra[,8])
-
-#Frequencia Religião
-freqReligião = table(amostra[,9])
-
-#Frequencia Religião QUal
-freqReligião_qual = table(amostra[,10])
-
-#Frequencia Estudando
-freqEstudando = table(amostra[,11])
-
-#Frequencia Estudo
-freqEstudo = table(amostra[,12])
-
-#Frequencia Tipo de habitação
-freqTipoHab = table(amostra[,14])
-
-#Frequencia outra habitação
-freqHabOutro = table(amostra[,15])
-
-#frequencia habit aluga
-freqHabitAlug = table(amostra[,16])
-
-#frequencia trabalho
-freqTrabalho = table(amostra[,17])
 
 #Depois Construir Estat?sticas Descritivas para cada uma das vari?veis QUALITATIVAS em formato de tabela e gr?ficos
 
@@ -94,6 +21,8 @@ freqTrabalho = table(amostra[,17])
 
 #Para tal, consulte o material no SUAP para entender um pouco mais sobre a natureza desses testes e depois veja
 # se d? aplica??o desses testes no R
+
+
 
 
 # Conclua esse passo dizendo qual ? o melhor modelo probabil?stico para esse caso
