@@ -30,6 +30,7 @@
 
 #Nesse ponto, termine seu trabalho realizando uma an?lise de correla??o e regress?o entre o n?mero de pessoas e
 # a renda familiar
+#
 
 regrecaoLinear = lm(rendafamiliar ~ Npessoas )
 summary(regrecaoLinear)
