@@ -1,8 +1,6 @@
 
 
 # Pronto! Agora temos nosso banco de dados! Mãos a obra com as análises!
-
-
 ###################    PASSO 1 #####################
 
 #Para o primeiro momento de an?lises, o interessante ? classificar cada um dos tipos de vari?veis que o banco tem
@@ -21,10 +19,6 @@
 
 #Para tal, consulte o material no SUAP para entender um pouco mais sobre a natureza desses testes e depois veja
 # se d? aplica??o desses testes no R
-
-
-
-
 # Conclua esse passo dizendo qual ? o melhor modelo probabil?stico para esse caso
 
 #####################  PASSO 3 ####################
@@ -36,6 +30,12 @@
 
 #Nesse ponto, termine seu trabalho realizando uma an?lise de correla??o e regress?o entre o n?mero de pessoas e
 # a renda familiar
+
+regrecaoLinear = lm(rendafamiliar ~ Npessoas )
+summary(regrecaoLinear)
+
+#p-value abaixo de 0.05 modelo ruim
+#adjusted R-squared = nível de capacidade de explicação da variabilidade dos dados do modelo. 
 
 ################### PASSO EXTRA ##################
 
